@@ -30,3 +30,4 @@ advanced-ml/
 | Week | Topic | Status |
 |------|-------|--------|
 | 01   | Introduction to ML | In progress |
+| 02   | Linear Regression | In progress |
